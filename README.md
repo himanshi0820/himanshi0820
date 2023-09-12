@@ -1,5 +1,5 @@
-<h1 align="center">Hi (https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), I'm Himanshi Garg</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Himanshi Garg
+<h6 align="left">A passionate full stack developer from India</h6>
 =====================================================================================================================================
 
 Machine learning enthusiast and front-end web developer. Actively learning and working on machine learning projects, applying algorithms, and building predictive models. Proficient in HTML, CSS, and JavaScript for creating engaging user interfaces. Open to collaboration and eager to explore new challenges in the world of AI and web development.
