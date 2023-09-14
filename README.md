@@ -32,7 +32,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=himanshi0820&show_icons=true&locale=en&layout=compact&theme=dracula" alt="himanshi0820" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=himanshi0820&show_icons=true&locale=en" alt="himanshi0820" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=himanshi0820&show_icons=true&locale=en&theme=dracula" alt="himanshi0820" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=himanshi0820&" alt="himanshi0820" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=himanshi0820&theme=dracula" alt="himanshi0820" /></p>
 
